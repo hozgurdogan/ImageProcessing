@@ -1,7 +1,7 @@
 import cv2
 
 # Resmi oku
-img = cv2.imread("../img/cloneSlodier.png", 0)
+img = cv2.imread("../img/cloneSlodier.png")
 
 # Resmi yazdır (Matris olarak)
 print(img)
